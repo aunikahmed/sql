@@ -8,7 +8,7 @@ select count(distinct client_id) from idf_diagnosis;
 
 select count(*) from client;
 
-select  *  from ger;
+
 
 
 
